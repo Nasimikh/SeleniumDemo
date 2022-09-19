@@ -1,0 +1,14 @@
+2022-07-24 22:51:02,444 : ERROR : pytestDemo.test_logging : Error handler: 
+2022-07-24 22:51:02,445 : CRITICAL : pytestDemo.test_logging : Critical issue found: 
+2022-07-24 23:20:03,419 : ERROR : pytestDemo.BaseClass : Error handler: 
+2022-07-24 23:20:03,419 : CRITICAL : pytestDemo.BaseClass : Critical issue found: 
+2022-07-24 23:36:04,162 : INFO : pytestDemo.BaseClass : nasimikhalimzoda@gmail.com 
+2022-07-24 23:36:04,165 : INFO : pytestDemo.BaseClass : 929-441-8999 
+2022-07-24 23:42:12,852 : INFO : test_editconfigs : nasimikhalimzoda@gmail.com 
+2022-07-24 23:42:12,852 : INFO : test_editconfigs : 929-441-8999 
+2022-07-24 23:45:39,496 : INFO : test_editconfigs : nasimikhalimzoda@gmail.com 
+2022-07-24 23:45:39,496 : INFO : test_editconfigs : 929-441-8999 
+2022-07-24 23:48:24,598 : INFO : test_editconfigs : nasimikhalimzoda@gmail.com 
+2022-07-24 23:48:24,598 : INFO : test_editconfigs : 929-441-8999 
+2022-08-23 21:49:11,827 : INFO : test_editconfigs : nasimikhalimzoda@gmail.com 
+2022-08-23 21:49:11,827 : INFO : test_editconfigs : 929-441-8999 
