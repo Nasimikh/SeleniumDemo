@@ -7,6 +7,7 @@
           <option value="N806" />
           <option value="N802" />
           <option value="N803" />
+<<<<<<< HEAD
           <option value="N812" />
         </list>
       </option>
@@ -15,6 +16,8 @@
       <option name="ignoredNames">
         <list>
           <option value="type" />
+=======
+>>>>>>> 6826561f1cce4b9fb1bf956c8ae15c113ce79977
         </list>
       </option>
     </inspection_tool>
